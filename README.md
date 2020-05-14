@@ -1,2 +1,19 @@
-# doccie_confeitaria
-Trabalho da disciplina de Construção de sotfware para desenvolvimento de um aplicativo.
+# Doccie Confeitaria
+
+Aplicativo de e-commerce para uma confeitaria. 
+
+Desenvolvido para a disciplina de Construção de Software no curso de Sistemas de Informação.
+
+
+## Getting Started
+
+Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](https://flutter.io/) on-line .
+
+## Screenshots
+
+| Tela Login | Tela Cadastro | Tela Lista de Produtos |
+| --------|--------|--------|
+|<img src="screenshot/DoccieConfeitaria_Tela1.png" width="320">|<img src="screenshot/DoccieConfeitaria_Tela2.png.png" width="320">|<img src="screenshot/DoccieConfeitaria_Tela3.png.png" width="320">|
+| Tela Bolos | Tela CupCakes | Tela Doces |
+| --------|--------|--------|
+|<img src="screenshot/DoccieConfeitaria_Tela4.png" width="320">|<img src="screenshot/DoccieConfeitaria_Tela5.png.png" width="320">|<img src="screenshot/DoccieConfeitaria_Tela6.png.png" width="320">|
